@@ -531,12 +531,12 @@ nav ul li a:hover {
     background-color: var(--celesteBrillante);
     flex-direction: column;
     padding: 20px;
-    width: 515px;
+    width: 530px;
     height: 306px;
   }
 
   .pro-section h2 {
-    padding-left: 0px;
+    padding-left: 10px;
   }
 
   .pro-text-desktop {
@@ -545,6 +545,7 @@ nav ul li a:hover {
 
   .pro-text-mobile {
     display: unset;
+    padding-left: 10px;
   }
 
   /*** BEST OF THE MONTH ***/
@@ -563,8 +564,9 @@ nav ul li a:hover {
   }
 
   .container-best {
-    width: 480px;
+    width: 530px;
     padding-left: 25px;
+    padding-right: 20px;
   }
 
   .best-btn-more {
@@ -647,7 +649,7 @@ nav ul li a:hover {
 
   /*** FOOTER ***/
   footer {
-    width: 515px;
+    width: 530px;
     height: 540px;
   }
   .footer-container {
