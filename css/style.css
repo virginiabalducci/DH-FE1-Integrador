@@ -477,6 +477,11 @@ nav ul li a:hover {
   background-color: rgb(183, 136, 219);
 }
 
+.white-btn:hover {
+  background-color: #232c50;
+  color: var(--white);
+}
+
 /******** MEDIA QUERIES *********/
 @media (max-width: 480px) {
   * {
